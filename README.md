@@ -28,7 +28,7 @@
 
   </br>
   </br>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-jishan&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-jishan" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-jishan&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-jishan" /></p> 
 
 
 </br></br>

@@ -1,25 +1,129 @@
-<h1 align="center">Hi 👋, I'm abdul aziz jishan</h1>
-<h3 align="center">Consistent continued interest in Web Development , I have decided build my career in the professional field. I would like to excel in Frontend Development field of expertise. Through hard work and resolute. I aim to attain excellence in this field..</h3>
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Aadit Kamat, a final year student at the NUS School of Computing
 
-- 🌱 I’m currently learning **javascript.**
+- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
+- 👯 I'm happy to collaborate on any web development or data science project
+- 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
+- 📫 How to reach me: 
+     - Personal: aadit.k12@gmail.com
+     - School: aadit_kamat@u.nus.edu
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdul-aziz-jishan](https://github.com/abdul-aziz-jishan)
-
-- 💬 Ask me about **Javscript/React.js/Next.js**
-
-- 📫 reach me **abdulazizjishan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### Social media profiles
 <p align="left">
-<a href="https://twitter.com/jishanaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jishanaziz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-aziz-jishan-485199216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-aziz-jishan-485199216" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdulaziz.jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdulaziz.jishan" height="30" width="40" /></a>
-<a href="https://instagram.com/aziz_jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziz_jishan" height="30" width="40" /></a>
+<a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
+<a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Languages and Tools
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="Ruby" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
+</p>
+ 
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&redirect=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-jishan&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-jishan" /></p>
+### My GitHub stats 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-aziz-jishan&" alt="abdul-aziz-jishan" /></p>
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
+
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 575 Contributions in the Year 2020
+ > 
+> 📦 163.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
+🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
+Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
+Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
+Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Git Config               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+
+🔥 Editors: 
+PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
+Mac                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
+Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+-----
+Credits: [aaditkamat](https://github.com/aaditkamat)
+
+Last Edited on: 27/12/2020

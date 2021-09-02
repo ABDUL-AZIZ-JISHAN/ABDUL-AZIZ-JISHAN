@@ -12,8 +12,7 @@
 3. Depth knowledge about SASS & Git.
 4. Strong understanding of modern front-end performance techniques.
 
-</br>
-</br>
+
 </br>
 
 - 👨‍💻 My profile and all projects are available at  [https://github.com/abdul-aziz-jishan](https://github.com/abdul-aziz-jishan)
@@ -45,3 +44,4 @@
 <a href="https://stackoverflow.com/users/16816075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16816075" height="30" width="80" /></a>
 <a href="https://fb.com/abdulaziz.jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulaziz.jishan" height="30" width="80" /></a>
 <a href="https://instagram.com/aziz_jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziz_jishan" height="30" width="80" /></a>
+    </p>

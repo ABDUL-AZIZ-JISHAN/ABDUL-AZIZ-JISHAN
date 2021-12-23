@@ -7,10 +7,10 @@
 </br>
 
 -Front-End-Development Proficiency:
-1. Experience in front-end development (HTML, CSS, Bootstrap, Tailwind css, jQuery, JavaScript & React.js )
-2. Familiar with Node.js,MongoDB, RestAPI, Foundation, and other UI framework features.
-3. Depth knowledge about SASS & Git.
-4. Strong understanding of modern front-end performance techniques.
+1. Experience in front-end development (HTML, CSS, Bootstrap,jQuery, JavaScript)
+<!-- 2. Familiar with Node.js,MongoDB, RestAPI, Foundation, and other UI framework features. -->
+2. Depth knowledge about SASS & Git.
+3. Strong understanding of modern front-end performance techniques.
 
 
 </br>

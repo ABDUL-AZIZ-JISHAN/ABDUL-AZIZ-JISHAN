@@ -14,7 +14,7 @@
 
 </br>
 
-- 👨‍💻 My profile and all projects are available at  [https://github.com/abdul-aziz-jishan](https://github.com/abdul-aziz-jishan)
+<!-- - 👨‍💻 My profile and all projects are available at  [https://github.com/abdul-aziz-jishan](https://github.com/abdul-aziz-jishan) -->
 
 - 📫 Contact me with maill **abdulazizjishan@gmail.com**
 </br>

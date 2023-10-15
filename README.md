@@ -5,7 +5,7 @@
 <p align="left">-Front-End-Development Proficiency:<br><br>Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript & React.js)<br>Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>Strong understanding of modern front-end technologies.</p>
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -37,8 +37,26 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</br>
+  </br>
+  </br>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-jishan&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-jishan" /></p> 
+
+
+</br></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-aziz-jishan&" alt="abdul-aziz-jishan" /></p>
+
+
+</br></br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/abdul-aziz-jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdul-aziz-jishan" width="80" height="40" /></a>
+<a href="https://twitter.com/jishanaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jishanaziz" width="80" height="40" /></a>
+<a href="https://linkedin.com/in/abdul-aziz-jishan-485199216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-aziz-jishan-485199216" width="80" height="40" /></a>
+<a href="https://stackoverflow.com/users/16816075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16816075" width="80" height="40" /></a>
+<a href="https://fb.com/abdulaziz.jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulaziz.jishan"width="80" height="40" /></a>
+<a href="https://instagram.com/aziz_jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziz_jishan" width="80" height="40" /></a>
+</p>="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###

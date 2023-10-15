@@ -10,7 +10,7 @@
 </br>
 <p align="left">-Front-End-Development Proficiency:<br><br>1. Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript, React.js and Redux)<br>2. Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>3. Strong understanding of modern front-end technologies.</p>
 </br>
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@
 
 
 </br>
-## Connect With Me:
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />

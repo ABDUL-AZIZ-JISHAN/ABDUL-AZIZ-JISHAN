@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋!<br><br>This is Abdul Aziz Jishan </h2> <p>__ A creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</p>
+<h1 align="center">Hi 👋! </br> This is Abdul Aziz Jishan</h1>
+<p>__ A creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</p>
 
 ## About Me
 

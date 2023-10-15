@@ -1,7 +1,14 @@
-<h2 align="left">Hi 👋!<br><br>This is Abdul Aziz Jishan - a creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences. With 1+ years of immersive journey through the world of web development.</h2>
+<h2 align="left">Hi 👋!<br><br>This is Abdul Aziz Jishan - a creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</h2>
+
+## About Me
+
+- 💼 Front-End Developer at Hook & Hub.
+- 🎓 Studying at DIU in Computer Science & Engineering
+- 🌟 Passionate about creating visually appealing and user-friendly websites
+
 
 </br>
-<p align="left">-Front-End-Development Proficiency:<br><br>Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript, React.js and Redux)<br>Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>Strong understanding of modern front-end technologies.</p>
+<p align="left">-Front-End-Development Proficiency:<br><br>1. Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript, React.js and Redux)<br>2. Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>3. Strong understanding of modern front-end technologies.</p>
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">

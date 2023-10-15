@@ -1,10 +1,8 @@
 <h2 align="left">Hi 👋!<br><br>This is Abdul Aziz Jishan - a creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences. With 1+ years of immersive journey through the world of web development.</h2>
 
-###
-</br></br>
-<p align="left">-Front-End-Development Proficiency:<br><br>Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript & React.js)<br>Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>Strong understanding of modern front-end technologies.</p>
-</br></br>
-###
+</br>
+<p align="left">-Front-End-Development Proficiency:<br><br>Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript, React.js and Redux)<br>Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>Strong understanding of modern front-end technologies.</p>
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -26,8 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
 
-###
-</br></br>
+
+</br>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -36,14 +34,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
-
-  </br>
   </br>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-jishan&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-jishan" /></p> 
 
-</br></br>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-aziz-jishan&" alt="abdul-aziz-jishan" /></p>
-
-
-###

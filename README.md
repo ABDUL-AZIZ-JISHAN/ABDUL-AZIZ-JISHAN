@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 💼 Front-End Developer at Hook & Hub.
+- 💼 Freelance Front-End Developer.
 - 🎓 Studying at DIU in Computer Science & Engineering
 - 🌟 Passionate about creating visually appealing and user-friendly websites
 - :) my all updates and projects are available at:  <a href="https://jishan.dev"> www.jishan.dev</a>

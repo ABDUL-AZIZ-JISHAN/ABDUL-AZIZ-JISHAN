@@ -10,7 +10,7 @@
 
 
 </br>
-<p align="left">-Front-End-Development Proficiency:<br><br>1. Experience in front-end development (HTML, CSS, Bootstrap, Scss, Git, jQuery, JavaScript, React.js and Redux)<br>2. Familiar with Node.js, Express.js, MongoDB, RestAPI, Next.js and other UI framework features.<br>3. Strong understanding of modern front-end technologies.</p>
+<p align="left">-My Expertise:<br><br>1. Strong understanding of modern front-end technologies (HTML, CSS, Bootstrap, Tailwind CSS,  Scss, Git, jQuery, JavaScript, TypeScript, React.js , Next.js, Redux, Zustand )<br>2. Experience with backend technologies like Node.js, Express.js, MongoDB,PostgreeSQL, RestAPI, Prisma and others.
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋! </br> This is Abdul Aziz Jishan</h1>
-<p>__ A creative front-end developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</p>
+<p>__ A creative front-end focused full stack javascript web application developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</p>
 
 ## About Me
 
-- 💼 Freelance Front-End Developer.
+- 💼 Web Application Developer at @Xgeinous.
 - 🎓 Studying at DIU in Computer Science & Engineering
 - 🌟 Passionate about creating visually appealing and user-friendly websites
 - :) my all updates and projects are available at:  <a href="https://jishan.dev"> www.jishan.dev</a>

@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋! </br> This is Abdul Aziz Jishan</h1>
-<p>__ A creative front-end focused full stack javascript web application developer on a mission to turn lines of code into visually stunning and user-friendly web experiences and I'm constantly striving to improve my skills and stay up-to-date with the latest web development technologies.</p>
+<p> a Full Stack Engineer with 5+ years of experience building
+and delivering scalable web applications, SaaS
+platforms, and digital products. Specialized in modern
+frontend engineering, with strong backend, API,
+database, and architecture experience.
+
+I own products end to end, from setting technical
+direction and planning through execution and
+production delivery. Experienced in leading
+development teams, coordinating with designers and
+stakeholders, and making technical decisions that keep
+products scalable, maintainable, and on track.</p>
 
 ## About Me
 

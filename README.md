@@ -3,7 +3,8 @@
 
 ## About Me
 
-- 💼 Web Application Developer at @Xgeinous.
+- 💼 Full Stack Engineer at @Musemind.
+- 💼 Former Web Application Developer at @Xgeinous.
 - 💼 Former Frontend Engineer at @RektStudios.
 - 🎓 Studying at DIU in Computer Science & Engineering
 - 🌟 Passionate about creating visually appealing and user-friendly websites

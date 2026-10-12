@@ -22,8 +22,7 @@ products scalable, maintainable, and on track.</p>
 
 
 </br>
-<p align="left">-My Expertise:<br><br>1. Strong understanding of modern frontend technologies (HTML, CSS, Bootstrap, Tailwind CSS,  Scss, Git, jQuery, JavaScript, TypeScript, React.js , Next.js, Redux, Zustand )<br>2. Experience with backend technologies like Node.js, Express.js, MongoDB,PostgreeSQL, RestAPI,GraphQL, Drizzle, Prisma and others.
-</br><br>3. Experience with AI technologies like AI Integration, AI automatin, AI agent building, RAG, MCP, AI Ingeration and others.
+<p align="left">-My Expertise:<br><br>1. Strong understanding of modern frontend technologies like HTML, CSS, Bootstrap, Tailwind CSS,  Scss, Git, jQuery, JavaScript, TypeScript, React.js , Next.js, Redux, Zustand ) and othres<br>2. Experience with backend technologies like Node.js, Express.js, MongoDB,PostgreeSQL, RestAPI,GraphQL, Drizzle, Prisma and others.</br><br>3. Experience with AI technologies like AI Integration, AI automatin, AI agent building, RAG, MCP, AI Ingeration and others.
 </br>
 
 </br>

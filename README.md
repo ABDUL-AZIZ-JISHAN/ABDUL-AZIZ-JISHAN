@@ -18,7 +18,7 @@ products scalable, maintainable, and on track.</p>
 - 💼 Former Web Application Developer at @Xgeinous.
 - 💼 Former Frontend Engineer at @RektStudios.
 - 🎓 Studying at DIU in Computer Science & Engineering
-- :) my all updates and projects are available at:  <a href="https://jishanaziz.dev"> www.jishan.dev</a>
+- :) my all updates and projects are available at:  <a href="https://jishanaziz.dev"> www.jishanaziz.dev</a>
 
 
 </br>

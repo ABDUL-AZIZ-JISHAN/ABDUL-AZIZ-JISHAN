@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! </br> This is Abdul Aziz Jishan</h1>
-<p> a Full Stack Engineer with 5+ years of experience building
+<p> an AI native Full Stack Engineer with 5+ years of experience building
 and delivering scalable web applications, SaaS
 platforms, and digital products. Specialized in modern
 frontend engineering, with strong backend, API,
@@ -18,12 +18,12 @@ products scalable, maintainable, and on track.</p>
 - 💼 Former Web Application Developer at @Xgeinous.
 - 💼 Former Frontend Engineer at @RektStudios.
 - 🎓 Studying at DIU in Computer Science & Engineering
-- 🌟 Passionate about creating visually appealing and user-friendly websites
 - :) my all updates and projects are available at:  <a href="https://jishanaziz.dev"> www.jishan.dev</a>
 
 
 </br>
-<p align="left">-My Expertise:<br><br>1. Strong understanding of modern front-end technologies (HTML, CSS, Bootstrap, Tailwind CSS,  Scss, Git, jQuery, JavaScript, TypeScript, React.js , Next.js, Redux, Zustand )<br>2. Experience with backend technologies like Node.js, Express.js, MongoDB,PostgreeSQL, RestAPI, Prisma and others.
+<p align="left">-My Expertise:<br><br>1. Strong understanding of modern frontend technologies (HTML, CSS, Bootstrap, Tailwind CSS,  Scss, Git, jQuery, JavaScript, TypeScript, React.js , Next.js, Redux, Zustand )<br>2. Experience with backend technologies like Node.js, Express.js, MongoDB,PostgreeSQL, RestAPI,GraphQL, Drizzle, Prisma and others.
+</br><br>3. Experience with AI technologies like AI Integration, AI automatin, AI agent building, RAG, MCP, AI Ingeration and others.
 </br>
 
 </br>
